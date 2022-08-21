@@ -3,6 +3,7 @@ body {
   text-align: center;
   font-family: Verdana;
 }
+/* Headings*/
 
 .excursion {
   color: gray;
@@ -13,16 +14,20 @@ body {
   font-weight: normal;
   font-size: 50px;
 }
+/*sub heading*/
 .sub-header {
   font-weight: 300;
   font-size: 42px;
   color: white;
 }
-
+/*links*/
 .download {
   color: aquamarine;
   font-size: 16px;
 }
-.tag{
-    text;
+/*footers*/
+.copyright {
+  color: gray;
+  font-size: 21px;
+  text-align: right;
 }
