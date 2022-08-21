@@ -13,17 +13,16 @@ body {
   font-weight: normal;
   font-size: 50px;
 }
-.guide {
+.sub-header {
   font-weight: 300;
   font-size: 42px;
   color: white;
 }
-.device {
-  font-weight: 300;
-  font-size: 42px;
-  color: white;
-}
+
 .download {
   color: aquamarine;
   font-size: 16px;
+}
+.tag{
+    text;
 }
